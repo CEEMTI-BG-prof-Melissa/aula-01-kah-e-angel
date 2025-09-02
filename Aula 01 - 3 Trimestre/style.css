@@ -1,4 +1,10 @@
 p::first-letter {
-  color : blue;
+         color : blue;
 }
-::first-line
+
+::first-line {
+  <selection>
+         <p> Parágrafo 2</p>
+  </selection>
+        color : yellow;
+  
