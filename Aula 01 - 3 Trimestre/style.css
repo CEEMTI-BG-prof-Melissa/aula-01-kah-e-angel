@@ -1,8 +1,8 @@
-::first-letter{
+p::first-letter{
     color: blue;
 }
 
-::first-line{
+p.importante::first-line{
     background-color: yellow;
 }
 
@@ -49,4 +49,4 @@ h1::selection{
 
 input::placeholder{
     background-color: lightgray;
-}p
+}
