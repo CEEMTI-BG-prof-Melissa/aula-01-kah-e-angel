@@ -21,7 +21,7 @@ ulli.distaque::marker{
 }
 
 ::selection{
-    background-color: #ccc;
+    background-color: grey;
 }
 
 ::placeholder{
@@ -42,9 +42,9 @@ h1::selection{
     background-color: black;
 }
 
-::first-letter{
+p::first-letter{
     color: red;
-    font-size: xx-large;
+    font-size: 24px;
 }
 
 input::placeholder{
