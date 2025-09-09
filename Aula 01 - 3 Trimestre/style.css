@@ -16,16 +16,16 @@ p::after{
     color: green;
 }
 
-::marker{
-    color: #ffa600;
+ulli.distaque::marker{
+    color: orange;
 }
 
-h2::selection{
+::selection{
     background-color: #ccc;
 }
 
 ::placeholder{
-    color: blueviolet;
+    color: purple;
 }
 
 p::before{
