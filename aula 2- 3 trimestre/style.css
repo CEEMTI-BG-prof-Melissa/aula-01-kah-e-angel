@@ -6,3 +6,7 @@ margin:10px;
 .borda{
 border: 10px dashed black;
 }
+
+#um {
+  background-color: pink;
+}
