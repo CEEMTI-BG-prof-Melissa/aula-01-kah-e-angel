@@ -11,4 +11,62 @@ border: 10px dashed black;
   background-color: pink;
 }
 
-#dois
+#dois{
+    background-image: url(izacu.webp);
+    background-repeat: repeat;
+}
+
+#tres{
+    background-image: url(izacu.webp);
+    background-repeat: no-repeat;
+    background-position: center;
+}
+
+#quatros{
+    background-image: url(izacu.webp);
+    background-size: cover;
+}
+#cinco{
+    background-image: url(izacu.webp);
+    background-size: cover;
+    background-attachment: fixed;
+}
+#seis{
+    background-image: url(izacu.webp);
+    background-repeat: no-repeat;
+    background-origin: padding-box;
+
+}
+#sete{
+    background-image: url(izacu.webp);
+    background-repeat:no-repeat;
+    background-origin:border-box;
+
+}
+#oito{
+    background-image: url(izacu.webp);
+    background-repeat: no-repeat;
+    background-origin: content-box;
+
+}
+#nove{
+    background-image: url(izacu.webp);
+    background-repeat: no-repeat;
+    background-clip: padding-box;
+
+}
+#dez{
+    background-image: url(izacu.webp);
+    background-repeat: no-repeat;
+    background-clip: border-box;
+}
+#onze{
+    background-image: url(izacu.webp);
+    background-repeat: no-repeat;
+    background-clip: content-box;
+
+}
+#doze{
+    background-image: url(izacu.webp);
+    background(shorthand)
+}
