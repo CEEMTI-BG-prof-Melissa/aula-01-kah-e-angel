@@ -18,8 +18,10 @@ h2{
     text-decoration-thickness: inherit;
 }
 #paragrafo2{
-    text-align: center;                                   falta acabar 
+    text-align: center;                                   
     letter-spacing: 2px;
+    direction: rtl;
+    unicode-bidi: bidi-override;
 }
 #paragrafo3{
     text-align: left;
